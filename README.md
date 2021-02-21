@@ -63,4 +63,4 @@ Copyright 2013-2020 Signal
 
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
 
-Google Play and the Google Play logo are trademarks of Google Inc. EDIT
+Google Play and the Google Play logo are trademarks of Google Inc.
